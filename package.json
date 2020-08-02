@@ -1,0 +1,14 @@
+{
+  "name": "AudioMass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amilajack/AudioMass",
+  "author": "Amila Welihinda <amilajack@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "wavesurfer.js": "^4.0.1"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
